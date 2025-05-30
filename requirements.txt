@@ -1,0 +1,4 @@
+# This file lists the dependencies required for the project.
+requests
+pytest
+logging
